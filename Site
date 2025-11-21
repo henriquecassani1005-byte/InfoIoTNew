@@ -24,7 +24,7 @@
     <header class="bg-white shadow-sm fixed w-full z-50 top-0">
         <div class="container mx-auto px-6 py-4 flex justify-between items-center">
             <div class="flex items-center gap-2">
-                <div class="bg-navy text-white font-bold p-2 rounded">INFO IoT</div>
+                <div class="bg-navy text-white font-bold p-2 rounded">InfoIoT</div>
                 <span class="font-semibold text-navy tracking-tight hidden md:block">Engenharia & Consultoria</span>
             </div>
 
@@ -65,14 +65,14 @@
                         <a href="#" class="bg-blue-tech hover-blue-tech text-white px-8 py-4 rounded-md font-bold text-center shadow-lg shadow-blue-500/30 transition transform hover:-translate-y-1">
                             Quero um Projeto de Transformação
                         </a>
-                        [cite_start]<span class="text-xs text-slate-400 mt-2 text-center sm:text-left">Para visibilidade e controle automatizado. [cite: 42]</span>
+                    <span class="text-xs text-slate-400 mt-2 text-center sm:text-left">Para visibilidade e controle automatizado.</span>
                     </div>
                     
                     <div class="flex flex-col">
                         <a href="https://www.loja.infoiot.com.br/" target="_blank" class="border border-slate-500 hover:border-white hover:text-white text-slate-300 px-8 py-4 rounded-md font-semibold text-center transition">
-                            Acessar Loja de Insumos
+                            Acessar Loja
                         </a>
-                        [cite_start]<span class="text-xs text-slate-500 mt-2 text-center sm:text-left">Reposição rápida de hardware. [cite: 45]</span>
+                        <span class="text-xs text-slate-500 mt-2 text-center sm:text-left">Reposição rápida de hardware.</span>
                     </div>
                 </div>
             </div>
